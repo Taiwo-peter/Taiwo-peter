@@ -7,7 +7,7 @@
 <body>
 
 <header>
-    <h1>Hello, I'm Taiwo Falade</h1>
+    <h1>Hello, I'm Taiwo</h1>
     <p>AWS Cloud Solutions Architect</p>
 </header>
 
