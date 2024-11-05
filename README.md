@@ -26,8 +26,8 @@
     <h2>Projects</h2>
     <ul>
         <li>
-            <h3>Project Title 1</h3>
-            <p>Description of the project, technologies used, and your role.</p>
+            <h3>Static Website</h3>
+            <a href="https://github.com/Taiwo-peter/Hosting-a-Static-Website-on-Amazon-S3/tree/main">Hosting a Static Website on Amazon S3</a>
         </li>
         <li>
             <h3>Project Title 2</h3>
